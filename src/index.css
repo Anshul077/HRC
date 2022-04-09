@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body{
+    background: transparent radial-gradient(closest-side at 50% 50%, #58687E 0%, #39495E 100%) 0% 0%;
+}
+
+.button{
+    color: #ffffff;
+    width: 12%;
+    border:1px solid #14AFF1;
+    border-radius: 0;
+  }
+  .button:hover{
+    background-color: #14AFF1;
+  }
+  
+  .search{
+    padding:5px;
+    width:18%;
+    background-color: #ffffff;
+    border-radius: 4px;
+    margin: auto;
+  }
+  
+  .button2{
+    width: 48%;
+    margin: 0 5px;
+    color: #ffffff;
+    border:1px solid #ffffff;
+  }
+  .button3{
+    width: 47%;
+    margin: 30px 5px 0 5px;
+    color: #ffffff;
+    border:1px solid #ffffff;
+  }
+  
+  .button2:hover,
+  .button3:hover{
+    border:1px solid #ffffff;
+  }
